@@ -92,8 +92,12 @@ button:active {
   }
 
   .calculator{
-    max-width: 450px;
+    max-width: 420px;
     width: 100%;
     
   }
+    .buttons{
+    margin: 15px;
+  }
+  
 }
